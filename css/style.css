@@ -566,7 +566,7 @@ section > .container {
 /* ==================================================================
 Intro
 ================================================================== */
-
+.thin {font-weight: 300 !important;color:#000 !important;}
 #intro {
 	background:url(../background-3.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
@@ -883,10 +883,10 @@ Isotope Transitions
 }
 
 /* ==================================================================
-Contacts
+Find
 ================================================================== */
 
-#contacts {
+#find {
 	background: url(../maps.jpg) no-repeat center center;
 }
 
