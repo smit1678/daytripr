@@ -23,7 +23,6 @@ Desktop
 	::-webkit-scrollbar-thumb {
 	    -webkit-border-radius: 0px;
 	    border-radius: 0px;
-	    background: rgba(180,180,180,0.8); 
 	    -webkit-box-shadow: none; 
 	}
 
